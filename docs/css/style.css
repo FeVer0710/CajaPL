@@ -12,6 +12,7 @@ table{
     height: 100%;
     min-width: 100%;
     text-align: center;
+    text-transform: uppercase;
 }
 
 table, th, td{
