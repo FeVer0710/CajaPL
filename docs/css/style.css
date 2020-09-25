@@ -1,5 +1,6 @@
 .table{
-    width: 100% !important;
+    min-width: min-content !important;
+    max-width: max-content !important;
 }
 
 .table td, .table th{
