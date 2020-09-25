@@ -1,8 +1,18 @@
-.table{
-    min-width: min-content !important;
-    max-width: max-content !important;
+/* .table{
+    height: 100vh !important;
 }
 
 .table td, .table th{
     vertical-align: middle !important;
+} */
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 100%;
+}
+
+table, th, td{
+    border: 1px solid black;
+    padding: 1%;
 }
